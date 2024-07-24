@@ -11,7 +11,6 @@ Futuro Software Enginer em formação, apaixonado pela inovação e evolução d
 #### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&labelColor=%23414141&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&labelColor=%23414141&logo=java&logoColor=white)
 </div>
 
