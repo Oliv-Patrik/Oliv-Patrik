@@ -3,7 +3,7 @@
 
 Futuro Software Enginer em formação, apaixonado pela inovação e evolução digital. Motivado pela resolução de desafios complexos e otimização de processos. Creio no poder da tecnologia para transformar ideias em realidade, abraçando cada desafio como oportunidade de crescimento e aprendizado. Comprometido com a melhoria contínua, busco constantemente expandir meu horizonte profissional e pessoal.
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOliv-Patrik%2Fdio-lab-open-source"><img src="hhttps://share.gemini.google/luTYrt4xP6IO" /></a>
+<a href="https://share.gemini.google/luTYrt4xP6IO"><img src="hhttps://share.gemini.google/luTYrt4xP6IO" /></a>
 ![Descrição da Imagem](https://cdn.leonardo.ai/users/bd5a6f87-f962-45b7-8a51-103f49406833/generations/e3005833-a890-444c-8c52-1a7180936a4f/Default_Bruxo_de_capa_Roxa_Programador_A_mystical_violetrobed_3.jpg)
 
 <div style="width: max-content;">
