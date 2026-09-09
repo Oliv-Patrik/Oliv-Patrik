@@ -4,7 +4,7 @@
 Futuro Software Enginer em formação, apaixonado pela inovação e evolução digital. Motivado pela resolução de desafios complexos e otimização de processos. Creio no poder da tecnologia para transformar ideias em realidade, abraçando cada desafio como oportunidade de crescimento e aprendizado. Comprometido com a melhoria contínua, busco constantemente expandir meu horizonte profissional e pessoal.
 
 <a href="https://share.gemini.google/luTYrt4xP6IO"><img src="hhttps://share.gemini.google/luTYrt4xP6IO" /></a>
-![Descrição da Imagem](https://share.gemini.google/luTYrt4xP6IO)
+![Descrição da Imagem](https://drive.google.com/file/d/135sITn8rH_hrf3ElGduy8vZL7KzHp6nD/view?usp=drive_link)
 
 <div style="width: max-content;">
 
