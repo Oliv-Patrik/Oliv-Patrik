@@ -35,7 +35,7 @@ No meu dia a dia, transformo dados complexos em insights visuais utilizando ferr
 ### 📫 Você pode me encontrar em:
 
 <p>
-  <a href="https://www.linkedin.com/in/patrik-de-oliveira" target="_blank">
+  <a href="https://www.linkedin.com/in/oliveira-patrik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:patrikoli49@gmail.com">
