@@ -1,6 +1,8 @@
 # Salve meus bruxos 🧙‍♂️! Podem me chamar de Patrik ✌️
 
-Futuro Engenheiro de Software em formação, apaixonado pela inovação e evolução digital. Motivado pela resolução de desafios complexos e otimização de processos através de dados e código. Creio no poder da tecnologia para transformar ideias em realidade, abraçando cada desafio como oportunidade de crescimento e aprendizado. Comprometido com a melhoria contínua, busco constantemente expandir meu horizonte profissional e pessoal, unindo a magia da programação com a ciência de dados.
+Estudante de Engenharia de Software e profissional apaixonado por extrair valor da informação. Atualmente, atuo na área de Faturamento com uma forte imersão em Business Intelligence e Análise de Dados, utilizando o pensamento analítico para otimizar processos e guiar decisões estratégicas. 
+
+No meu dia a dia, transformo dados complexos em insights visuais utilizando ferramentas como SQL, DAX e Power BI. Movido por desafios, busco expandir constantemente meu "grimório" de habilidades e venho aprofundando meus estudos em Ciência de Dados, Machine Learning e automações com Python. Meu grande objetivo é unir a arquitetura sólida da engenharia de software com o poder preditivo dos dados para criar soluções inovadoras e de alto impacto.
 
 <div align="center">
   <img src="Gemini_Generated_Image_8rty428rty428rty.jpg" alt="Bruxo Programador" width="700" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
